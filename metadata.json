@@ -1,0 +1,7 @@
+{
+  "name": "EvernX Admin Portal",
+  "description": "A high-end, dark navy themed administrative dashboard for music library management, featuring Supabase integration and AI-powered embed generation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
